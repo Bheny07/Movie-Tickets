@@ -1,6 +1,6 @@
 """Movie theatre ticketing system v-1
 Welcome screen and variables
-Created by Ben H"""
+Created by Ben H """
 
 
 # Component 1 - Welcome screen and set up variables
