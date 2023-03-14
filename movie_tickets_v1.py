@@ -1,4 +1,4 @@
-"""Movie theatre ticketing system v-1
+"""Movie theatre ticketing system - v1
 Welcome screen and variables
 Created by Ben H """
 
